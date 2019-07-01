@@ -4,7 +4,8 @@
 </h1>
 
 <p align="center">
-  <a href="https://www.npmjs.com/package/docusaurus"><a href="#backers" alt="sponsors on Open Collective"><img src="https://opencollective.com/Docusaurus/backers/badge.svg" /></a> <a href="#sponsors" alt="Sponsors on Open Collective"><img src="https://opencollective.com/Docusaurus/sponsors/badge.svg" /></a> <img src="https://img.shields.io/npm/v/docusaurus.svg?style=flat" alt="npm version"></a>
+  <a href="https://www.npmjs.com/package/docusaurus"><a href="#backers" alt="sponsors on Open Collective"><img src="https://opencollective.com/Docusaurus/backers/badge.svg" /></a> <a href="#sponsors" alt="Sponsors on Open Collective"><img src="https://opencollective.com/Docusaurus/sponsors/badge.svg" /></a> <a href="https://app.fossa.io/projects/git%2Bgithub.com%2Favishnyakov%2FDocusaurus?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.io/api/projects/git%2Bgithub.com%2Favishnyakov%2FDocusaurus.svg?type=shield"/></a>
+<img src="https://img.shields.io/npm/v/docusaurus.svg?style=flat" alt="npm version"></a>
   <a href="https://circleci.com/gh/facebook/Docusaurus"><img src="https://circleci.com/gh/facebook/Docusaurus.svg?style=shield" alt="CircleCI Status"></a>
   <a href="CONTRIBUTING.md#pull-requests"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
   <a href="https://discord.gg/docusaurus"><img src="https://img.shields.io/badge/chat-on%20discord-7289da.svg" alt="Chat"></a>
@@ -73,3 +74,6 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
 Docusaurus is [MIT licensed](./LICENSE).
 
 The Docusaurus documentation (e.g., `.md` files in the `/docs` folder) is [Creative Commons licensed](./LICENSE-docs).
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Favishnyakov%2FDocusaurus.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Favishnyakov%2FDocusaurus?ref=badge_large)
